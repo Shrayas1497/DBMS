@@ -1,2 +1,1 @@
-# DBMS_Project
-This is  a dbms project.
+# DBMS_Project This is  a dbms project.
